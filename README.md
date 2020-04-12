@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![VictorJRosario](https://circleci.com/gh/VictorJRosario/ProjectVDevOpsNanodegree.svg?style=svg)](https://app.circleci.com/pipelines/github/VictorJRosario/ProjectVDevOpsNanodegree)
 
 ## Project Overview
 
