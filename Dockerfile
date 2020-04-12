@@ -15,7 +15,7 @@ COPY . model_data /app/
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
 
-RUN pip install --upgrade pip
+RUN pip install pip==20.0.2
 RUN pip install -r requirements.txt
 
 ## Step 4:
